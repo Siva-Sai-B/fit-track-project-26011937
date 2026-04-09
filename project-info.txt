@@ -3,5 +3,5 @@ Team: Development Team Alpha
 Start Date: January 2026
 Features:
 User Authentication
-Workout tracking 
+Workout tracking
 
